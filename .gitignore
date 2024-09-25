@@ -1,0 +1,10 @@
+CMakeFiles/
+*.cmake
+main
+*.vcxproj
+CMakeCache.txt
+/*.txt
+*.jpg
+*.sln
+.vs/
+
